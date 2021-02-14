@@ -8,6 +8,7 @@
 ![image](https://user-images.githubusercontent.com/74223626/107865328-ce138680-6e2a-11eb-9792-69960d32ebd2.png)
 
 * December temperature trends: Here we were able to review approximately 1,500 December dates with the correspondng temperature also from 2010 until the end of 2016.  The results were more varied with the coolest being 54 degrees and the hottest being 83 degrees.  The mean was still very pleasant at 71 degrees.
+![image](https://user-images.githubusercontent.com/74223626/107865360-17fc6c80-6e2b-11eb-9ba6-dcf7bb1d0c9e.png)
 
 * Differences in time of year: Even though the coolest temperature in December is 10 degrees cooler than it is in June, the mean and quartile ranges are only a few degrees cooler in the winter.  
 
